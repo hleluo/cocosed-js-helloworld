@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://E:\web-project\helloworld\.idea\cocos2d.iml" filepath="E:\web-project\helloworld\.idea\cocos2d.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/helloworld.iml" filepath="$PROJECT_DIR$/.idea/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cocosed-js-helloworld.iml" filepath="$PROJECT_DIR$/.idea/cocosed-js-helloworld.iml" />
+      <module fileurl="file://E:\web-project\cocosed-js-helloworld\.idea\helloworld.iml" filepath="E:\web-project\cocosed-js-helloworld\.idea\helloworld.iml" />
     </modules>
   </component>
 </project>
